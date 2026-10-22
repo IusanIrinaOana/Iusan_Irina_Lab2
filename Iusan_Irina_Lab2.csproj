@@ -9,6 +9,7 @@
   <ItemGroup>
     <Folder Include="Pages\Books\" />
     <Folder Include="Pages\Authors\" />
+    <Folder Include="Pages\CategoryPages\" />
     <Folder Include="Pages\Publishers\" />
   </ItemGroup>
 
